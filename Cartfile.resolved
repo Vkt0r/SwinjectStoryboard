@@ -1,3 +1,3 @@
 github "Quick/Nimble" "v7.0.3"
 github "Quick/Quick" "v1.2.0"
-github "Swinject/Swinject" "2.3.0"
+github "Vkt0r/Swinject" "5cf44a94bef479500b99ef08f42f53a84c000b8f"
